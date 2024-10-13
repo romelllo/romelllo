@@ -13,11 +13,10 @@ I'm Roman Novikov, a Software Engineer passionate about building efficient data 
 - Data Science
 - Go programming language
 - Exploring the crypto and Web3 world
-- Biological Circuit Desig
+- Biological Circuit Design
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/r-novikov/)
-- [GitHub](https://github.com/romelllo)
 - [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
 
 ### ⚙️ Tech Stack
@@ -25,7 +24,7 @@ I'm Roman Novikov, a Software Engineer passionate about building efficient data 
 - **Technologies**: FastAPI, Docker, Kubernetes, AWS, PostgreSQL, ClickHouse, Tortoise ORM
 - **Tools**: Jenkins, Concourse, Kafka, RabbitMQ, KeyDB
 
-### 📄 Check out my [Resume](https://github.com/romelllo/resume.pdf)
+### 📄 Check out my [Resume](https://github.com/romelllo/romelllo/blob/master/resume.pdf)
 
 ### 💬 Let's chat about
 - Data engineering, cloud solutions, crypto, and synthetic biology
