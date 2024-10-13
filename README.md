@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**romelllo/romelllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roman Novikov, a Software Engineer passionate about building efficient data pipelines and cloud-based solutions.
 
-Here are some ideas to get you started:
+### 🌟 Current Role
+- **Data Engineer** at Hero.io, working on AI-powered tools to bring clarity to the crypto space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm working on
+- Designing and maintaining data infrastructure.
+- Enhancing processing pipelines for data analytics.
+
+### 🌱 Currently learning
+- Data Science
+- Go programming language
+- Exploring the crypto and Web3 world
+- Biological Circuit Desig
+
+### 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/r-novikov/)
+- [GitHub](https://github.com/romelllo)
+- [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
+
+### ⚙️ Tech Stack
+- **Languages**: Python, Bash, JavaScript, Go
+- **Technologies**: FastAPI, Docker, Kubernetes, AWS, PostgreSQL, ClickHouse, Tortoise ORM
+- **Tools**: Jenkins, Concourse, Kafka, RabbitMQ, KeyDB
+
+### 📄 Check out my [Resume](https://github.com/romelllo/resume.pdf)
+
+### 💬 Let's chat about
+- Data engineering, cloud solutions, crypto, and synthetic biology
