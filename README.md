@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Roman Novikov, a Software Engineer passionate about building efficient data pipelines and cloud-based solutions.
+I'm Roman Novikov, a Data Engineer passionate about building efficient data pipelines and cloud-based solutions.
 
 ### 🌟 Current Role
 - **Data Engineer** at Hero.io, working on AI-powered tools to bring clarity to the crypto space.
@@ -11,9 +11,10 @@ I'm Roman Novikov, a Software Engineer passionate about building efficient data 
 
 ### 🌱 Currently learning
 - Data Science
+- MLOps
 - Go programming language
-- Exploring the crypto and Web3 world
 - Biological Circuit Design
+- Exploring the crypto and Web3 world
 
 ### 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/r-novikov/)
