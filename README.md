@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Roman Novikov, a Data Engineer passionate about building efficient data pipelines and cloud-based solutions.
+I'm Roman Novikov, a Data Engineer passionate about building efficient data pipelines and cloud-based solutions for biotech.
 
 ### Current Role
 - **Data Engineer** at Hero.io, working on AI-powered tools to bring clarity to the crypto space.
@@ -13,7 +13,6 @@ I'm Roman Novikov, a Data Engineer passionate about building efficient data pipe
 - Data Science
 - MLOps
 - Go programming language
-- Exploring the Crypro and Web3
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/r-novikov/)
@@ -26,4 +25,4 @@ I'm Roman Novikov, a Data Engineer passionate about building efficient data pipe
 ### Check out my [Resume](https://github.com/romelllo/romelllo/blob/master/resume.pdf)
 
 ### Let's chat about
-- Data Engineering, Cloud Solutions, Crypto, and Engineering Biology
+- Data Engineering, Cloud Solutions, Synthetic Biology
