@@ -19,10 +19,10 @@ I'm Roman Novikov, a Data Engineer passionate about building efficient data pipe
 - [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
 
 ### Tech Stack
-- **Languages**: Python, Bash, JavaScript, Go
-- **Technologies**: FastAPI, Docker, Kubernetes, AWS, PostgreSQL, MongoDB, ClickHouse, Tortoise ORM, Apache Kafka, Apache Airflow 
+- **Languages**: Python, Go, Rust
+- **Technologies**: FastAPI, Docker, Kubernetes, AWS, PostgreSQL, MongoDB, ClickHouse, Tortoise ORM, Apache Kafka, Apache Airflow
 
 ### Check out my [Resume](https://github.com/romelllo/romelllo/blob/master/resume.pdf)
 
 ### Let's chat about
-- Data Engineering, Cloud Solutions, Synthetic Biology
+- AI in Bioinformatics, Cancer Research, Synthetic Biology
