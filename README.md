@@ -1,28 +1,43 @@
-# Hi there
+# Hi there 👋
+I'm **Roman Novikov**, a Senior Bioinformatician focused on scalable data pipelines for cancer genomics and cloud-native solutions for biotech.
 
-I'm Roman Novikov, a Data Engineer passionate about building efficient data pipelines and cloud-based solutions for biotech.
+---
 
-### Current Role
-- **Data Engineer** at Hero.io, working on AI-powered tools to bring clarity to the crypto space.
+### 🔬 Current Role
+- **Senior Bioinformatician** at CRUK National Biomarker Centre
+  Working on early detection of NSCLC using cfDNA-based biomarkers.
 
-### What I'm working on
-- Designing and maintaining data infrastructure.
-- Enhancing processing pipelines for data analytics.
+---
 
-### Currently learning
-- Data Science
-- MLOps
-- Go programming language
+### 🧪 What I’m Working On
+- Analysis of **methylation** and **fragmentomics** data
+- Machine learning models for **multi-omics integration**
+- Building classifiers for **early lung cancer detection**
 
-### Connect with me
+---
+
+### 📚 Currently Exploring
+- Advanced **statistics** and **machine learning** for biology
+- Novel **liquid biopsy** biomarkers
+- Scalable **cloud pipelines** for omics data
+
+---
+
+### 🧰 Tech Stack
+**Languages**: Python, R, C, Go
+**Tools**: FastAPI, Docker, Kubernetes, AWS, Airflow, Kafka
+**Databases**: PostgreSQL, MongoDB
+**ORMs**: SQLAlchemy, Tortoise ORM
+
+---
+
+### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/r-novikov/)
 - [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
+- [CV (PDF)](https://github.com/romelllo/romelllo/blob/master/cv.pdf)
 
-### Tech Stack
-- **Languages**: Python, Go, Rust
-- **Technologies**: FastAPI, Docker, Kubernetes, AWS, PostgreSQL, MongoDB, ClickHouse, Tortoise ORM, Apache Kafka, Apache Airflow
+---
 
-### Check out my [Resume](https://github.com/romelllo/romelllo/blob/master/resume.pdf)
-
-### Let's chat about
-- AI in Bioinformatics, Cancer Research, Synthetic Biology
+### 💬 Let’s Chat About
+- AI for biology and medicine
+- Early cancer detection
