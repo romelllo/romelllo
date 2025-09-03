@@ -10,21 +10,20 @@ I'm **Roman Novikov**, a Senior Bioinformatician focused on scalable data pipeli
 ---
 
 ### What I’m Working On
-- Analysis of **methylation** and **fragmentomics** data
+- Analysis of **methylation**, **fragmentomics** and **proteomics** data
 - Machine learning models for **multi-omics integration**
 - Building classifiers for **early lung cancer detection**
 
 ---
 
 ### Currently Exploring
-- Advanced **statistics** and **machine learning** for biology
-- Novel **liquid biopsy** biomarkers
+- Advanced **statistics** and **machine learning**
 - Scalable **cloud pipelines** for omics data
 
 ---
 
 ### Tech Stack
-- **Languages**: Python, R, C, Go
+- **Languages**: Python, R, C, Rust
 - **Tools**: FastAPI, Docker, AWS, Airflow, Kafka
 - **Databases**: PostgreSQL, MongoDB, SQLAlchemy, Tortoise ORM
 
