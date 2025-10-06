@@ -23,7 +23,7 @@ I'm **Roman Novikov**, a Senior Bioinformatician focused on scalable data pipeli
 ---
 
 ### Tech Stack
-- **Languages**: Python, R, C, Rust
+- **Languages**: Python, R, Rust
 - **Tools**: FastAPI, Docker, AWS, Airflow, Kafka
 - **Databases**: PostgreSQL, MongoDB, SQLAlchemy, Tortoise ORM
 
