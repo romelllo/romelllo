@@ -5,7 +5,7 @@ I'm **Roman Novikov**, a Senior Bioinformatician focused on scalable data pipeli
 
 ### Current Role
 - **Senior Bioinformatician** at CRUK National Biomarker Centre
-  Working on early detection of NSCLC using cfDNA-based biomarkers.
+  working on early detection of NSCLC using cfDNA-based biomarkers.
 
 ---
 
