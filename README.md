@@ -1,41 +1,26 @@
-# Hi there
-I'm **Roman Novikov**, a Senior Bioinformatician focused on scalable data pipelines for cancer genomics and cloud-native solutions for biotech.
+# Hi there, I'm Roman 👋
+
+### ML Engineer | Bioinformatician | Researcher
+
+ℹ️ I bridge the gap between **biological discovery** and **machine learning**. Currently focused on early cancer detection at the CRUK National Biomarker Centre.
 
 ---
 
-### Current Role
-- **Senior Bioinformatician** at CRUK National Biomarker Centre
-  working on early detection of NSCLC using cfDNA-based biomarkers.
+### 🧬 What I Do
+- **Current Mission:** Developing scalable pipelines for the early detection of NSCLC using cfDNA-based biomarkers.
+- **Core Focus:** Integrating Multi-omics (Methylation, Fragmentomics, Proteomics) data to enhance diagnostic accuracy.
+- **Research:** Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng).
 
 ---
 
-### What I’m Working On
-- Analysis of **methylation**, **fragmentomics** and **proteomics** data
-- Machine learning models for **multi-omics integration**
-- Building classifiers for **early lung cancer detection**
+### 🔭 Currently Exploring
+- Advanced Machine Learning architectures for biological data.
+- High-performance computing with **Rust**.
+- Optimization of cloud costs for genomic workloads.
 
 ---
 
-### Currently Exploring
-- Advanced **statistics** and **machine learning**
-- Scalable **cloud pipelines** for omics data
-
----
-
-### Tech Stack
-- **Languages**: Python, R, Rust
-- **Tools**: FastAPI, Docker, AWS, Airflow, Kafka
-- **Databases**: PostgreSQL, MongoDB, SQLAlchemy, Tortoise ORM
-
----
-
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/r-novikov/)
-- [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
-- [CV (PDF)](https://github.com/romelllo/romelllo/blob/master/cv.pdf)
-
----
-
-### Let’s Chat About
-- AI for biology and medicine
-- Early cancer detection
+### 📫 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/r-novikov/)
+- 📄 [CV (PDF)](https://github.com/romelllo/romelllo/blob/master/cv.pdf)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng)
