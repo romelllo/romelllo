@@ -9,7 +9,6 @@
 ### 🧬 What I Do
 - **Current Mission:** Developing scalable pipelines for the early detection of NSCLC using cfDNA-based biomarkers.
 - **Core Focus:** Integrating Multi-omics (Methylation, Fragmentomics, Proteomics) data to enhance diagnostic accuracy.
-- **Research:** Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=Mchr5koAAAAJ&hl=eng).
 
 ---
 
